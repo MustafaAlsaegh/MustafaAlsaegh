@@ -18,7 +18,7 @@
 
 💬 Ask me about React.js, Java, Python
 
-📄 Have a look at my [Resume](https://shubhambhagat.com/assets/pdf/shubham_bhagat_resume.pdf). I am open to feedback and suggestions.
+📄 Have a look at my [Resume](--). I am open to feedback and suggestions.
 
 </p>
 <br/>
