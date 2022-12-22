@@ -8,15 +8,15 @@
 <p>
     <img align="right" alt="Coding" width="300" src="./media/coding.png" />
 
-📖 Pursuing Master's in Computer Science at Indiana University Bloomington.
+📖 Pursuing Master's in Data Science at Indiana University Bloomington.
 
 🧑🏻‍💻 Check out [--] - An AI powered voice-assisted news app.
 
-🧐 Currently learning React Native, Next.js and Zustand.
+🧐 Currently learning Azure, Power Platform and React.
 
 💡 Always open to collaborating on projects and innovative ideas.
 
-💬 Ask me about React.js, Java, Python
+💬 Ask me about Python, R.
 
 📄 Have a look at my [Resume](--). I am open to feedback and suggestions.
 
