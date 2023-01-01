@@ -1,22 +1,24 @@
 ![MasterHead](./media/header.png)
 
 <h1 align="center">Hi 👋, I'm Mustafa Alsaegh</h1>
-<h3 align="center">Software Developer  |  Music Producer  |  Sketch Artist</h3>
+<h3 align="center">Data Analytics  |  Digital Marketing  |  Sketch Artist</h3>
 
 <br/>
 
 <p>
     <img align="right" alt="Coding" width="300" src="./media/coding.png" />
 
-📖 Pursuing Master's in Data Science at Indiana University Bloomington.
+📖 Pursuing Master's in Data Science at Indiana University Bloomington 
+	
+📖 2020 Bachelor's in Business Admin & Marketing from Indiana University
 
-🧑🏻‍💻 Check out [--] - An AI powered voice-assisted news app.
+🧑🏻‍💻 Check out my projects
 
-🧐 Currently learning Azure, Power Platform and React.
+🧐 Currently learning Azure, Power Platform and Google Analytics.
 
 💡 Always open to collaborating on projects and innovative ideas.
 
-💬 Ask me about Python, R.
+💬 Ask me about my path
 
 📄 Have a look at my [Resume](--). I am open to feedback and suggestions.
 
