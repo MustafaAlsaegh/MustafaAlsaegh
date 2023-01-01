@@ -1,7 +1,7 @@
 ![MasterHead](./media/header.png)
 
 <h1 align="center">Hi 👋, I'm Mustafa Alsaegh</h1>
-<h3 align="center">Data Analytics  |  Digital Marketing  |  Sketch Artist</h3>
+<h3 align="center">Data Analytics  |  Digital Marketer  |  Sketch Artist</h3>
 
 <br/>
 
