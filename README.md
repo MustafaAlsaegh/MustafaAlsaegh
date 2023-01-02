@@ -20,7 +20,7 @@
 
 💬 Ask me about my path
 
-📄 Have a look at my [Resume](--). I am open to feedback and suggestions.
+📄 Have a look at my [Resume](https://mustafaalsaegh.com). I am open to feedback and suggestions.
 
 </p>
 <br/>
