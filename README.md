@@ -43,7 +43,7 @@
 	</a>
 </p>
 
-<p>Aside from my technical background, you will see me playing guitar, sketching portraits, or cooking. Outside of work, I've been working as a freelance music producer and have collaborated with different music enthusiasts on their projects. </p>
+<p>Aside from my technical background, you will see me playing soccer, tennis, or cooking. </p>
 
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
@@ -51,13 +51,9 @@
 
 <p align="left">
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
@@ -67,7 +63,6 @@
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
-<img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
