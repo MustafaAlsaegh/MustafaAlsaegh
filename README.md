@@ -10,7 +10,7 @@
 
 📖 Pursuing Master's in Data Science at Indiana University Bloomington 
 	
-📖 2020 Bachelor's in Business Admin & Marketing from Indiana University
+📖 2019 Bachelor's in Business Admin & Marketing from Indiana University
 
 🧑🏻‍💻 Check out my projects
 
