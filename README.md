@@ -1,26 +1,26 @@
 ![MasterHead](./media/header.png)
 
 <h1 align="center">Hi 👋, I'm Mustafa Alsaegh</h1>
-<h3 align="center">Data Analytics  |  Digital Marketer  |  Sketch Artist</h3>
+<h3 align="center">Data Analytics  |    |  Sketch Artist</h3>
 
 <br/>
 
 <p>
     <img align="right" alt="Coding" width="300" src="./media/coding.png" />
 
-📖 Pursuing Master's in Data Science at Indiana University Bloomington 
+📖 Pursuing Master's in Data Science at Indiana University Bloomington - Expected May 2024
 	
-📖 2019 Bachelor's in Business Admin & Marketing from Indiana University
+📖 2020 Bachelor's in Business Admin & Marketing from Indiana University
 
 🧑🏻‍💻 Check out my projects
 
-🧐 Currently learning Azure, Power Platform and Google Analytics.
+🧐 Currently learning Azure, SalesForce Development and Google Analytics.
 
 💡 Always open to collaborating on projects and innovative ideas.
 
 💬 Ask me about my path
 
-📄 Have a look at my [Resume](https://mustafaalsaegh.com). I am open to feedback and suggestions.
+📄  I am open to feedback and suggestions.
 
 </p>
 <br/>
